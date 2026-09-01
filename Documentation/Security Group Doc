@@ -1,0 +1,9 @@
+Domain name: NMG.com
+OUs created: Finance, HR, IT, Operations
+Security groups created: Finance-Users, HR-Users, IT-Users, Operations-Users.
+Below are the descriptions of different types of Organization Units (OUs).
+Finance: Managing the organization's financial activities for users.
+HR: User creation containing employees responsible for managing personnel records
+IT: Creation of Users responsible for managing the organization's technology infrastructure
+Operations: Creation of Users responsible for the organization's daily business activities, processes, services, and operational support.
+Date completed: 08/28/2026.
